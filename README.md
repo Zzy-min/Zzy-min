@@ -36,13 +36,11 @@ I turn ideas into running, testable projects.
 ## 在做什么
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zzy-min&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2f6047&text_color=20241f&icon_color=b28a55&bg_color=f5f5ef&ring_color=2f6047" alt="Zzy-min GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzy-min&layout=compact&hide_border=true&title_color=2f6047&text_color=20241f&bg_color=f5f5ef" alt="Most used languages" />
+  <img height="176" src="./assets/stats.svg" alt="公开作品摘要：3 件代表作，2 个线上站点，11 个原创仓库，持续 7 个月" />
+  <img height="176" src="./assets/langs.svg" alt="原创仓库语言分布：TypeScript 52%，Java 37%，Python 10%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zzy-min&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</div>
+语言占比按原创仓库体积估算，不等于个人熟练度。
 
 <div align="center">
   <picture>

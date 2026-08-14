@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="176" viewBox="0 0 560 176" role="img" aria-labelledby="title">
+  <title id="title">张子阳的公开作品摘要</title>
+  <rect width="560" height="176" rx="14" fill="#f5f5ef"/>
+  <rect x="1" y="1" width="558" height="174" rx="13" fill="none" stroke="#d6dbd2"/>
+  <rect x="0" y="0" width="8" height="176" rx="0" fill="#2f6047"/>
+  <text x="28" y="36" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="2.4" fill="#2f6047">NOW BUILDING</text>
+  <text x="28" y="62" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="18" fill="#20241f">公开作品摘要</text>
+
+  <g font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC',serif" fill="#20241f">
+    <text x="56" y="112" text-anchor="middle" font-size="34">3</text>
+    <text x="168" y="112" text-anchor="middle" font-size="34">2</text>
+    <text x="292" y="112" text-anchor="middle" font-size="34">11</text>
+    <text x="436" y="112" text-anchor="middle" font-size="34">7</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="12" fill="#676e66">
+    <text x="56" y="136" text-anchor="middle">代表作</text>
+    <text x="168" y="136" text-anchor="middle">线上站点</text>
+    <text x="292" y="136" text-anchor="middle">原创仓库</text>
+    <text x="436" y="136" text-anchor="middle">个月持续做</text>
+  </g>
+</svg>

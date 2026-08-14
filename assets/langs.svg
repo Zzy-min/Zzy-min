@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-labelledby="title">
+  <title id="title">原创仓库语言分布</title>
+  <rect width="420" height="176" rx="14" fill="#f5f5ef"/>
+  <rect x="1" y="1" width="418" height="174" rx="13" fill="none" stroke="#d6dbd2"/>
+  <text x="22" y="36" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="2.4" fill="#2f6047">ORIGINAL REPOS</text>
+  <text x="22" y="62" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="18" fill="#20241f">仓库语言分布</text>
+
+  <text x="22" y="96" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="13" fill="#20241f">TypeScript</text>
+  <text x="398" y="96" text-anchor="end" font-family="Georgia,serif" font-size="13" fill="#676e66">52%</text>
+  <rect x="22" y="102" width="376" height="8" rx="4" fill="#e6eee7"/>
+  <rect x="22" y="102" width="196" height="8" rx="4" fill="#2f6047"/>
+
+  <text x="22" y="128" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="13" fill="#20241f">Java</text>
+  <text x="398" y="128" text-anchor="end" font-family="Georgia,serif" font-size="13" fill="#676e66">37%</text>
+  <rect x="22" y="134" width="376" height="8" rx="4" fill="#e6eee7"/>
+  <rect x="22" y="134" width="140" height="8" rx="4" fill="#4d7a5f"/>
+
+  <text x="22" y="160" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="13" fill="#20241f">Python</text>
+  <text x="398" y="160" text-anchor="end" font-family="Georgia,serif" font-size="13" fill="#676e66">10%</text>
+  <rect x="22" y="166" width="376" height="8" rx="4" fill="#e6eee7"/>
+  <rect x="22" y="166" width="38" height="8" rx="4" fill="#b28a55"/>
+</svg>
