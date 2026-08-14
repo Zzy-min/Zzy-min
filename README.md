@@ -2,45 +2,83 @@
   <img src="./assets/banner.svg" alt="张子阳 · AI 应用开发者。I turn ideas into running, testable projects." width="100%" />
   <p>
     <a href="https://qling.it.com/">
-      <img src="https://img.shields.io/badge/打开个人站-qling.it.com-2f6047?style=for-the-badge&labelColor=20241f" alt="打开个人站 qling.it.com" />
+      <img src="https://img.shields.io/badge/🌐_打开个人站-qling.it.com-2f6047?style=for-the-badge&labelColor=20241f" alt="打开个人站 qling.it.com" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Zzy-min&label=Profile%20views&color=2f6047&style=flat-square" alt="Profile views" />
+    <a href="https://qling.it.com/resume">
+      <img src="https://img.shields.io/badge/📄_在线简历-Resume-b28a55?style=for-the-badge&labelColor=20241f" alt="在线简历" />
+    </a>
+    <a href="https://blog.csdn.net/Zzydzyg0618">
+      <img src="https://img.shields.io/badge/📝_CSDN博客-Zzydzyg0618-fc5531?style=for-the-badge&labelColor=20241f" alt="CSDN博客" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Zzy-min&label=Views&color=2f6047&style=for-the-badge&labelColor=20241f" alt="Profile views" />
   </p>
 </div>
 
 软件工程学生。我把产品想法做成能运行、能验证的项目。  
-I turn ideas into running, testable projects.
+*I turn ideas into running, testable projects.*
 
 代表作是轻·棋局、轻灵和轻青；项目里有 AI 协作，技术栈不等于我已熟练掌握的技能。
 
-**[打开个人站](https://qling.it.com/)** · [在线简历](https://qling.it.com/resume) · [CSDN](https://blog.csdn.net/Zzydzyg0618)
+---
+
+### 🚀 代表作 / Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">♟️ 轻·棋局</h4>
+      <p align="center"><strong>XiangqiArena</strong></p>
+      <p>将中国象棋、五子棋、围棋汇聚一体的 Java Web 综合对弈平台。</p>
+      <p align="center">
+        <a href="https://www.xiangqiarena.com/">
+          <img src="https://img.shields.io/badge/Live-线上站点-2f6047?style=flat-square" alt="Live Site" />
+        </a>
+        <a href="https://github.com/Zzy-min/Chinese-chess">
+          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ 轻灵</h4>
+      <p align="center"><strong>Qling CLI</strong></p>
+      <p>本地优先、轻量级的中文 AI Agent 命令行与自动化工具。</p>
+      <p align="center">
+        <a href="https://www.npmjs.com/package/@qlingzzy/qling">
+          <img src="https://img.shields.io/npm/v/@qlingzzy/qling?style=flat-square&color=2f6047" alt="NPM Version" />
+        </a>
+        <a href="https://github.com/Zzy-min/qling">
+          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🌱 轻青</h4>
+      <p align="center"><strong>Qingqing</strong></p>
+      <p>供应商中立、专注长文与多媒体处理的个人创作 Agent。</p>
+      <p align="center">
+        <a href="https://github.com/Zzy-min/qingqing">
+          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
+        </a>
+        <a href="https://github.com/Zzy-min?tab=repositories">
+          <img src="https://img.shields.io/badge/More-更多生态-b28a55?style=flat-square" alt="More" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 代表作
-
-**轻·棋局 XiangqiArena**  
-把象棋 / 五子棋 / 围棋收到同一个 Java Web 站。  
-[线上站点](https://www.xiangqiarena.com/) · [源码](https://github.com/Zzy-min/Chinese-chess)
-
-**轻灵 Qling**  
-本地优先的中文 AI Agent CLI。  
-[源码](https://github.com/Zzy-min/qling) · [npm](https://www.npmjs.com/package/@qlingzzy/qling)
-
-**轻青 Qingqing**  
-供应商中立的个人创作 Agent。  
-[源码](https://github.com/Zzy-min/qingqing)
-
----
-
-## 在做什么
+### 📊 工程积累与状态 / Activity & Stats
 
 <div align="center">
-  <img height="176" src="./assets/stats.svg" alt="公开作品摘要：3 件代表作，2 个线上站点，11 个原创仓库，持续 7 个月" />
+  <img height="176" src="./assets/stats.svg" alt="公开作品摘要：3 件代表作，2 个线上站点，11 个原创仓库，持续 7+ 个月" />
   <img height="176" src="./assets/langs.svg" alt="原创仓库语言分布：TypeScript 52%，Java 37%，Python 10%" />
 </div>
 
-语言占比按原创仓库体积估算，不等于个人熟练度。
+<p align="center">
+  <sub><i>语言占比按原创仓库体积估算，不等于个人熟练度。</i></sub>
+</p>
 
 <div align="center">
   <picture>
@@ -51,10 +89,11 @@ I turn ideas into running, testable projects.
 
 ---
 
-## 联系
+### 📬 联系与交流 / Contact
 
-正在寻找 AI Agent 开发实践机会。
+正在寻找 AI Agent 开发与工程实践机会。
 
-- 个人站：[qling.it.com](https://qling.it.com/)
-- 邮箱：[2293822701@qq.com](mailto:2293822701@qq.com) · [zzy19812007@gmail.com](mailto:zzy19812007@gmail.com)
-- 博客：[CSDN](https://blog.csdn.net/Zzydzyg0618)
+- 🌐 个人站：[qling.it.com](https://qling.it.com/)
+- 📄 在线简历：[qling.it.com/resume](https://qling.it.com/resume)
+- 📧 邮箱：[2293822701@qq.com](mailto:2293822701@qq.com) · [zzy19812007@gmail.com](mailto:zzy19812007@gmail.com)
+- 📝 博客：[CSDN @Zzydzyg0618](https://blog.csdn.net/Zzydzyg0618)

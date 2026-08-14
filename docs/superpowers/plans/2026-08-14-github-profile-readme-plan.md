@@ -6,7 +6,7 @@
 
 **Architecture:** Profile README 由静态 Markdown、一张品牌 banner、第三方统计图和一条每日生成的贡献蛇组成。仓库本身不跑应用。
 
-**Tech Stack:** GitHub Profile README、SVG、github-readme-stats、github-profile-trophy、Platane/snk、ghpvc
+**Tech Stack:** GitHub Profile README、SVG、Platane/snk、ghpvc
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### Task 2: Verify and publish
 
-- [ ] Check README contains CTA, three projects, contact; does not contain beginner or a tech-badge section
-- [ ] Check key URLs return HTTP 200
-- [ ] Push `main` and trigger snake workflow
-- [ ] Confirm GitHub serves the profile README
+- [x] Check README contains CTA, three projects, contact; does not contain beginner or a tech-badge section
+- [x] Check key URLs return HTTP 200
+- [x] Push `main` and trigger snake workflow
+- [x] Confirm GitHub serves the profile README
