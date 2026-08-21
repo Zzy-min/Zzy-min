@@ -36,6 +36,7 @@
         <a href="https://github.com/Zzy-min/Chinese-chess">
           <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
         </a>
+        <img src="https://img.shields.io/github/stars/Zzy-min/Chinese-chess?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
       </p>
     </td>
     <td width="33%" valign="top">
@@ -49,6 +50,7 @@
         <a href="https://github.com/Zzy-min/qling">
           <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
         </a>
+        <img src="https://img.shields.io/github/stars/Zzy-min/qling?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
       </p>
     </td>
     <td width="33%" valign="top">
@@ -62,10 +64,21 @@
         <a href="https://github.com/Zzy-min?tab=repositories">
           <img src="https://img.shields.io/badge/More-更多生态-b28a55?style=flat-square" alt="More" />
         </a>
+        <img src="https://img.shields.io/github/stars/Zzy-min/qingqing?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🧰 技术栈 / Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,java,python,javascript,nodejs,npm&theme=light" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
@@ -83,7 +96,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
