@@ -17,7 +17,7 @@
 软件工程学生。我把产品想法做成能运行、能验证的项目。  
 *I turn ideas into running, testable projects.*
 
-代表作是轻·棋局、轻灵和轻青；项目里有 AI 协作，技术栈不等于我已熟练掌握的技能。
+代表作是轻·棋局、轻灵和 Voling 日记；项目里有 AI 协作，技术栈不等于我已熟练掌握的技能。
 
 ---
 
@@ -54,17 +54,17 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🌱 轻青</h4>
-      <p align="center"><strong>Qingqing</strong></p>
-      <p>供应商中立、专注长文与多媒体处理的个人创作 Agent。</p>
+      <h4 align="center">📔 Voling 日记</h4>
+      <p align="center"><strong>AI Diary · Vonnie</strong></p>
+      <p>面向微信小程序与 Web 的 AI 日记产品，将语音或文字整理成日记、配图与长期回忆。</p>
       <p align="center">
-        <a href="https://github.com/Zzy-min/qingqing">
+        <a href="https://github.com/Zzy-min/voonie">
           <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
         </a>
-        <a href="https://github.com/Zzy-min?tab=repositories">
-          <img src="https://img.shields.io/badge/More-更多生态-b28a55?style=flat-square" alt="More" />
+        <a href="https://qling.it.com/projects/voling/">
+          <img src="https://img.shields.io/badge/Case-项目介绍-b28a55?style=flat-square" alt="Voling 项目介绍" />
         </a>
-        <img src="https://img.shields.io/github/stars/Zzy-min/qingqing?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/Zzy-min/voonie?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
       </p>
     </td>
   </tr>
