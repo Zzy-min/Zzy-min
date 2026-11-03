@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">张子阳 · AI 应用与全栈开发者</title>
+  <desc id="desc">把产品想法做成能运行、能验证的项目。I turn ideas into running, testable projects.</desc>
+  <defs>
+    <linearGradient id="obsidian" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1310"/>
+      <stop offset="55%" stop-color="#111915"/>
+      <stop offset="100%" stop-color="#15201a"/>
+    </linearGradient>
+    <radialGradient id="leafGlowDark" cx="82%" cy="8%" r="48%">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldGlowDark" cx="12%" cy="90%" r="42%">
+      <stop offset="0%" stop-color="#d2a868" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#d2a868" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotsDark" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="0.8" fill="#56a87a" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#obsidian)"/>
+  <rect width="1280" height="360" fill="url(#leafGlowDark)"/>
+  <rect width="1280" height="360" fill="url(#goldGlowDark)"/>
+  <rect width="1280" height="360" fill="url(#dotsDark)"/>
+  <rect x="24" y="24" width="1232" height="312" fill="none" stroke="#26382e" stroke-width="1"/>
+  <rect x="18" y="18" width="8" height="324" fill="#3b7a57"/>
+  <rect x="26" y="18" width="3" height="324" fill="#d2a868"/>
+
+  <text x="1188" y="88" text-anchor="end" font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC','STSong','SimSun',serif" font-size="96" fill="#56a87a" fill-opacity="0.07">轻</text>
+
+  <text x="72" y="76" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="13" letter-spacing="3.8" fill="#68b888" font-weight="600">QLING.IT.COM · GITHUB.COM/ZZY-MIN</text>
+  <text x="72" y="162" font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC','STSong','SimSun',serif" font-size="74" font-weight="bold" fill="#eef2ee">张子阳</text>
+  <text x="316" y="156" font-family="Georgia,'Times New Roman',serif" font-size="22" fill="#8fa394" letter-spacing="0.8">Ziyang Zhang</text>
+  <text x="72" y="210" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="25" font-weight="600" fill="#68b888">AI 应用与全栈开发者 · 开源项目维护者</text>
+  <text x="72" y="248" font-family="Georgia,'Times New Roman',serif" font-size="19" font-style="italic" fill="#9fb0a3">把产品想法做成能运行、能验证的项目 — I turn ideas into running, testable projects.</text>
+
+  <g font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="500">
+    <rect x="72" y="278" width="126" height="34" rx="17" fill="#182820" stroke="#4ca973" stroke-opacity="0.45"/>
+    <text x="135" y="300" text-anchor="middle" fill="#bce3ca">📔 Voling 日记</text>
+
+    <rect x="210" y="278" width="138" height="34" rx="17" fill="#182820" stroke="#4ca973" stroke-opacity="0.45"/>
+    <text x="279" y="300" text-anchor="middle" fill="#bce3ca">⚡ 轻灵 Qling CLI</text>
+
+    <rect x="360" y="278" width="218" height="34" rx="17" fill="#262118" stroke="#d2a868" stroke-opacity="0.55"/>
+    <text x="469" y="300" text-anchor="middle" fill="#ebd0a4">🔀 codex-router · Maintainer</text>
+
+    <rect x="590" y="278" width="182" height="34" rx="17" fill="#182820" stroke="#4ca973" stroke-opacity="0.45"/>
+    <text x="681" y="300" text-anchor="middle" fill="#bce3ca">♟️ 轻·棋局 XiangqiArena</text>
+  </g>
+
+  <g transform="translate(1048, 82)">
+    <circle cx="70" cy="70" r="68" fill="none" stroke="#d2a868" stroke-width="1.4" stroke-opacity="0.8"/>
+    <circle cx="70" cy="70" r="58" fill="#131d17" stroke="#4ca973" stroke-width="1.2"/>
+    <text x="70" y="65" text-anchor="middle" font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC',serif" font-size="28" font-weight="bold" fill="#68b888">轻灵</text>
+    <text x="70" y="89" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="11.5" letter-spacing="1.6" fill="#d2a868">MAKE IT RUN</text>
+    <text x="70" y="168" text-anchor="middle" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8fa394">LOCAL-FIRST · TESTABLE</text>
+  </g>
+</svg>

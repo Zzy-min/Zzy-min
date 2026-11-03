@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="192" viewBox="0 0 440 192" role="img" aria-labelledby="title">
+  <title id="title">原创仓库语言分布</title>
+  <rect width="440" height="192" rx="14" fill="#111915"/>
+  <rect x="1" y="1" width="438" height="190" rx="13" fill="none" stroke="#26382e"/>
+  <rect x="0" y="0" width="6" height="192" rx="3" fill="#d2a868"/>
+  <text x="24" y="32" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2" fill="#68b888" font-weight="600">ORIGINAL REPOSITORIES</text>
+  <text x="24" y="56" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="16" fill="#eef2ee" font-weight="600">原创仓库语言分布</text>
+
+  <text x="24" y="84" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="12.5" fill="#eef2ee">TypeScript / Node.js</text>
+  <text x="416" y="84" text-anchor="end" font-family="Georgia,serif" font-size="12.5" fill="#9fb0a3">48%</text>
+  <rect x="24" y="89" width="392" height="7" rx="3.5" fill="#1c2a22"/>
+  <rect x="24" y="89" width="188" height="7" rx="3.5" fill="#4ca973"/>
+
+  <text x="24" y="112" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="12.5" fill="#eef2ee">Java (Undertow / Engine)</text>
+  <text x="416" y="112" text-anchor="end" font-family="Georgia,serif" font-size="12.5" fill="#9fb0a3">28%</text>
+  <rect x="24" y="117" width="392" height="7" rx="3.5" fill="#1c2a22"/>
+  <rect x="24" y="117" width="110" height="7" rx="3.5" fill="#68b888"/>
+
+  <text x="24" y="140" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="12.5" fill="#eef2ee">Python (FastAPI / Agent)</text>
+  <text x="416" y="140" text-anchor="end" font-family="Georgia,serif" font-size="12.5" fill="#9fb0a3">14%</text>
+  <rect x="24" y="145" width="392" height="7" rx="3.5" fill="#1c2a22"/>
+  <rect x="24" y="145" width="55" height="7" rx="3.5" fill="#d2a868"/>
+
+  <text x="24" y="168" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="12.5" fill="#eef2ee">Dart (Flutter) &amp; JS</text>
+  <text x="416" y="168" text-anchor="end" font-family="Georgia,serif" font-size="12.5" fill="#9fb0a3">10%</text>
+  <rect x="24" y="173" width="392" height="7" rx="3.5" fill="#1c2a22"/>
+  <rect x="24" y="173" width="39" height="7" rx="3.5" fill="#8fa895"/>
+</svg>

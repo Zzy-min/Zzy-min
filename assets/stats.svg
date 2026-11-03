@@ -1,21 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-labelledby="title">
-  <title id="title">张子阳的公开作品摘要</title>
-  <rect width="440" height="176" rx="14" fill="#f5f5ef"/>
-  <rect x="1" y="1" width="438" height="174" rx="13" fill="none" stroke="#d6dbd2"/>
-  <rect x="0" y="0" width="6" height="176" rx="3" fill="#2f6047"/>
-  <text x="24" y="34" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2" fill="#2f6047" font-weight="600">NOW BUILDING</text>
-  <text x="24" y="58" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="16" fill="#20241f" font-weight="600">公开作品与工程积累</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="192" viewBox="0 0 440 192" role="img" aria-labelledby="title">
+  <title id="title">张子阳的公开作品与开源足迹</title>
+  <rect width="440" height="192" rx="14" fill="#f5f5ef"/>
+  <rect x="1" y="1" width="438" height="190" rx="13" fill="none" stroke="#d6dbd2"/>
+  <rect x="0" y="0" width="6" height="192" rx="3" fill="#2f6047"/>
+  <text x="24" y="32" font-family="Cascadia Code,'JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2" fill="#2f6047" font-weight="600">OPEN SOURCE &amp; DELIVERY</text>
+  <text x="24" y="56" font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="16" fill="#20241f" font-weight="600">代表作品与开源协作足迹</text>
 
-  <g font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC',serif" fill="#20241f" font-weight="bold">
-    <text x="55" y="108" text-anchor="middle" font-size="30">3</text>
-    <text x="165" y="108" text-anchor="middle" font-size="30">2</text>
-    <text x="275" y="108" text-anchor="middle" font-size="30">11</text>
-    <text x="385" y="108" text-anchor="middle" font-size="30">7+</text>
+  <g font-family="'Source Han Serif SC','Noto Serif CJK SC','Songti SC',serif" font-weight="bold">
+    <text x="58" y="106" text-anchor="middle" font-size="28" fill="#20241f">6</text>
+    <text x="166" y="106" text-anchor="middle" font-size="28" fill="#2f6047">3.9k+</text>
+    <text x="278" y="106" text-anchor="middle" font-size="28" fill="#20241f">2</text>
+    <text x="382" y="106" text-anchor="middle" font-size="28" fill="#7a5828">25+</text>
   </g>
-  <g font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="12" fill="#676e66">
-    <text x="55" y="132" text-anchor="middle">代表作</text>
-    <text x="165" y="132" text-anchor="middle">线上站点</text>
-    <text x="275" y="132" text-anchor="middle">原创仓库</text>
-    <text x="385" y="132" text-anchor="middle">持续月份</text>
+  <g font-family="'PingFang SC','Microsoft YaHei UI','Microsoft YaHei',sans-serif" font-size="12" fill="#5c635b">
+    <text x="58" y="130" text-anchor="middle">核心代表作</text>
+    <text x="166" y="130" text-anchor="middle">参与维护项目★</text>
+    <text x="278" y="130" text-anchor="middle">线上运行站点</text>
+    <text x="382" y="130" text-anchor="middle">开源维护 Commits</text>
   </g>
+
+  <line x1="24" y1="148" x2="416" y2="148" stroke="#dfe3db" stroke-width="1"/>
+  <text x="24" y="170" font-family="'PingFang SC','Microsoft YaHei UI',sans-serif" font-size="11.5" fill="#676e66">收录分发：WinGet 官方源 (Zzy-min.qling) · npm (@qlingzzy/qling)</text>
 </svg>
