@@ -1,112 +1,114 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="张子阳 · AI 应用开发者。I turn ideas into running, testable projects." width="100%" />
-  <p>
-    <a href="https://qling.it.com/">
-      <img src="https://img.shields.io/badge/🌐_打开个人站-qling.it.com-2f6047?style=for-the-badge&labelColor=20241f" alt="打开个人站 qling.it.com" />
-    </a>
-    <a href="https://qling.it.com/resume">
-      <img src="https://img.shields.io/badge/📄_在线简历-Resume-b28a55?style=for-the-badge&labelColor=20241f" alt="在线简历" />
-    </a>
-    <a href="https://blog.csdn.net/Zzydzyg0618">
-      <img src="https://img.shields.io/badge/📝_CSDN博客-Zzydzyg0618-fc5531?style=for-the-badge&labelColor=20241f" alt="CSDN博客" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Zzy-min&label=Views&color=2f6047&style=for-the-badge&labelColor=20241f" alt="Profile views" />
-  </p>
-</div>
 
-软件工程学生。我把产品想法做成能运行、能验证的项目。  
-*I turn ideas into running, testable projects.*
-
-代表作是轻·棋局、轻灵和 Voling 日记；项目里有 AI 协作，技术栈不等于我已熟练掌握的技能。
-
----
-
-### 🚀 代表作 / Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">♟️ 轻·棋局</h4>
-      <p align="center"><strong>XiangqiArena</strong></p>
-      <p>将中国象棋、五子棋、围棋汇聚一体的 Java Web 综合对弈平台。</p>
-      <p align="center">
-        <a href="https://www.xiangqiarena.com/">
-          <img src="https://img.shields.io/badge/Live-线上站点-2f6047?style=flat-square" alt="Live Site" />
-        </a>
-        <a href="https://github.com/Zzy-min/Chinese-chess">
-          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
-        </a>
-        <img src="https://img.shields.io/github/stars/Zzy-min/Chinese-chess?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚡ 轻灵</h4>
-      <p align="center"><strong>Qling CLI</strong></p>
-      <p>本地优先、轻量级的中文 AI Agent 命令行与自动化工具。</p>
-      <p align="center">
-        <a href="https://www.npmjs.com/package/@qlingzzy/qling">
-          <img src="https://img.shields.io/npm/v/@qlingzzy/qling?style=flat-square&color=2f6047" alt="NPM Version" />
-        </a>
-        <a href="https://github.com/Zzy-min/qling">
-          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
-        </a>
-        <img src="https://img.shields.io/github/stars/Zzy-min/qling?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📔 Voling 日记</h4>
-      <p align="center"><strong>AI Diary · Vonnie</strong></p>
-      <p>面向微信小程序与 Web 的 AI 日记产品，将语音或文字整理成日记、配图与长期回忆。</p>
-      <p align="center">
-        <a href="https://github.com/Zzy-min/voonie">
-          <img src="https://img.shields.io/badge/Repo-源码-20241f?style=flat-square&logo=github" alt="Source" />
-        </a>
-        <a href="https://qling.it.com/projects/voling/">
-          <img src="https://img.shields.io/badge/Case-项目介绍-b28a55?style=flat-square" alt="Voling 项目介绍" />
-        </a>
-        <img src="https://img.shields.io/github/stars/Zzy-min/voonie?style=flat-square&color=b28a55&label=%E2%98%85" alt="Stars" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧰 技术栈 / Tech Stack
+<!-- 自适应双模 Banner (支持 Light/Dark 模式自适应) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner.svg" alt="张子阳 · AI 应用与全栈开发者" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,java,python,javascript,nodejs,npm&theme=light" alt="Tech Stack" />
-  </a>
+  <a href="https://qling.it.com/"><img src="https://img.shields.io/badge/🌐_个人站点-qling.it.com-2f6047?style=for-the-badge&labelColor=20241f" alt="个人站"></a>
+  <a href="https://qling.it.com/resume"><img src="https://img.shields.io/badge/📄_最新简历-Resume-b28a55?style=for-the-badge&labelColor=20241f" alt="简历"></a>
+  <a href="https://blog.csdn.net/Zzydzyg0618"><img src="https://img.shields.io/badge/📝_CSDN博客-Zzydzyg0618-fc5531?style=for-the-badge&labelColor=20241f" alt="CSDN"></a>
+  <a href="mailto:zzy19812007@gmail.com"><img src="https://img.shields.io/badge/📧_联系邮箱-Email_Me-2f6047?style=for-the-badge&labelColor=20241f" alt="邮箱"></a>
+  <img src="https://komarev.com/ghpvc/?username=Zzy-min&label=Views&color=2f6047&style=for-the-badge&labelColor=20241f" alt="访问统计">
 </p>
+
+</div>
+
+### 🧭 关于我 / About Me
+
+> **“状态在本地，证据可追溯，运行有终态。”**  
+> 软件工程在读，专注于 AI Agent 工具链、本地优先架构与高可用全栈工程。坚持“能运行、可验证、有测试门禁”，在真实复杂工程与开源协作中实现端到端闭环交付。
+
+- 📍 **坐标**：中国 · 河南郑州 (Zhengzhou, Henan)
+- 🎯 **主攻方向**：AI Agent 工具链 / 本地优先架构 / 全栈工程
+- 💼 **状态**：**寻找 AI Agent 研发实习与技术实践机会 (Available for hire)**
+- 🏆 **认证**：GitHub Pro · RevenueCat Shipaton Next Gen Award 参赛作品
 
 ---
 
-### 📊 工程积累与状态 / Activity & Stats
+### 🚀 精选代表作 / Featured Projects
 
-<div align="center">
-  <img height="176" src="./assets/stats.svg" alt="公开作品摘要：3 件代表作，2 个线上站点，11 个原创仓库，持续 7+ 个月" />
-  <img height="176" src="./assets/langs.svg" alt="原创仓库语言分布：TypeScript 52%，Java 37%，Python 10%" />
-</div>
+#### 🌟 核心产品与工具 (Core Products)
 
-<p align="center">
-  <sub><i>语言占比按原创仓库体积估算，不等于个人熟练度。</i></sub>
-</p>
+- **[Voling 日记 (Voonie)](https://github.com/Zzy-min/voonie)** `微信小程序` · `TypeScript` · `Python/FastAPI`  
+  AI 语音情绪日记与插画回忆产品。面向移动端日常记录场景，将碎片化的语音与文本流智能解析为长青记忆与插画档案，具备软著级工程与数据模型设计。  
+  `[核心作品]` · `[小程序+Web多端]` · `[1★]`
+
+- **[Qling (轻灵 CLI)](https://github.com/Zzy-min/qling)** `TypeScript` · `MCP` · `Streaming TUI` · `npm 1.3.1`  
+  面向中文开发者的本地优先 AI Agent 命令行工作台。支持流式终端 TUI、Model Context Protocol (MCP) 白名单协议、多轮持久化任务与会话恢复。  
+  `[NPM 已发布: @qlingzzy/qling]` · `[4★]` · `[持续维护]`
+
+---
+
+#### 🤝 重点参与开源维护 (Open Source Contributions)
+
+- **[codex-router](https://github.com/duolahypercho/codex-router)** `Core Contributor` · `Node.js` · `PowerShell` · `Shell` · `OAuth`  
+  面向 Codex 及现代 AI 编程辅助工具的外部模型路由与管理网关。核心参与其功能维护，涵盖 DeepSeek / Kimi OAuth 授权流引导、跨平台系统托盘控制中心（Control Center）、服务平滑迁移与安全回滚机制。  
+  `[主要维护贡献]` · `[多模型路由]` · `[生产级生态集成]`
+
+---
+
+#### ♟️ 全栈 Web & 高可用对弈平台 (Production System)
+
+- **[轻·棋局 XiangqiArena](https://github.com/Zzy-min/Chinese-chess)** `Java 11` · `Undertow (Native)` · `PostgreSQL` · `Cloudflare Tunnel`  
+  将中国象棋、五子棋、围棋收束一体的线上实时对弈平台。采用超轻量原生 Undertow 嵌入式引擎替代传统笨重框架，集成 Pikafish/Rapfi 开源引擎，正式上线稳定运行中。  
+  🌐 **线上正式站点**：[www.xiangqiarena.com](https://www.xiangqiarena.com/)  
+  `[2★]` · `[线上部署]` · `[高可用低延迟架构]`
+
+---
+
+#### 🔬 黑客松与跨端探索 (Hackathon & Multi-Platform)
+
+- **[Qling 出海智察 (Cross-border Insight)](https://github.com/Zzy-min/qling-crossborder-insight)** `React 19` · `Electron` · `Playwright E2E`  
+  面向中小跨境卖家的证据约束型 AI 市场决策工作台（CSDN AI+跨境黑客松作品）。具备完整的证据溯源推理链、200 例黄金评测集及跨端 E2E 自动化门禁。  
+  `[黑客松作品]` · `[200例黄金评测]`
+
+- **[StudyLoop](https://github.com/Zzy-min/studyloop)** `Flutter` · `Dart` · `SQLite` · `RevenueCat`  
+  专为克服学习启动阻力设计的静心离线优先 Android 学习伴侣。RevenueCat Shipaton Next Gen Award 参赛作品。  
+  `[Award Entry]` · `[演示视频: YouTube ↗](https://www.youtube.com/watch?v=wFz6Qis-V9M)`
+
+---
+
+### 🧰 技术栈全景 / Tech Stack Matrix
+
+```yaml
+AI & Agent:      Model Context Protocol (MCP), DeepSeek / MiniMax / Kimi API, SSE Streaming, Prompt Engineering
+Languages:       TypeScript, Java (11/17), Python (3.12), Dart, JavaScript, C
+Backend & Ops:   Undertow (Native Java), FastAPI, Node.js, PostgreSQL, HikariCP, Cloudflare Tunnel/Workers, Docker
+Frontend & Apps: React 19, Next.js, Flutter (Android/Desktop), WeChat Mini-Program, Electron, TailwindCSS
+Engineering:     Playwright (E2E), Vitest, JUnit 5, Golden Dataset Testing, GitHub Actions
+```
+
+---
+
+### 📊 工程积累与动态 / Activity & Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+    <img height="160" src="./assets/stats.svg" alt="工程积累：6款代表作 · 2个线上站点 · 14个原创仓库 · 持续10个月">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/langs-dark.svg">
+    <img height="160" src="./assets/langs.svg" alt="核心语言分布：TypeScript, Java, Python, Dart">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Zzy-min/Zzy-min/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### 📬 联系与交流 / Contact
+### 📬 联系与交流 / Connect
 
-正在寻找 AI Agent 开发与工程实践机会。
-
-- 🌐 个人站：[qling.it.com](https://qling.it.com/)
-- 📄 在线简历：[qling.it.com/resume](https://qling.it.com/resume)
-- 📧 邮箱：[2293822701@qq.com](mailto:2293822701@qq.com) · [zzy19812007@gmail.com](mailto:zzy19812007@gmail.com)
-- 📝 博客：[CSDN @Zzydzyg0618](https://blog.csdn.net/Zzydzyg0618)
+- 🌐 **个人站点**：[qling.it.com](https://qling.it.com/)
+- 📄 **在线简历**：[qling.it.com/resume](https://qling.it.com/resume)
+- 📧 **电子邮箱**：`zzy19812007@gmail.com` ｜ `2293822701@qq.com`
+- 📝 **技术博客**：[CSDN @Zzydzyg0618](https://blog.csdn.net/Zzydzyg0618)
+- 💬 **当前诉求**：**寻找 AI Agent 架构研发、全栈开发相关的实习或开源协作机会，欢迎邮件交流！**
